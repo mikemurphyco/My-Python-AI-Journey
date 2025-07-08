@@ -18,7 +18,7 @@ https://claude.ai/chat/2a5ec04a-35d9-4961-96cb-1b7eba1682f3
 ### Current Status: Just Getting Started! 
 - **Course:** AI Python for Beginners by DeepLearning.AI
 - **Instructor:** Andrew Ng
-- **Start Date:** [Insert your start date]
+- **Start Date:** [July 8, 2025]
 - **Target Completion:** [Insert your target date]
 
 ### Learning Milestones
